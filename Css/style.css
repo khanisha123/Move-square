@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#pane {
+    position: relative;
+    width: 1347px;
+    height: 650px;
+    background-image: url(../Img/space-istock-895035-1601412603.jpg);
+}
+  
+  #box {
+    position: absolute;
+    top: 140px;
+    left: 140px;
+    font-size: 90px;
+    color: white;
+  }
